@@ -1,0 +1,23 @@
+{
+  "name": "Windows 98 SE",
+  "profileVersion": "1.0",
+  "cpu": {
+    "personality": "Pentium III",
+    "cores": 1
+  },
+  "memory": {
+    "visible": "512MB"
+  },
+  "storage": {
+    "mode": "IDE"
+  },
+  "video": {
+    "mode": "VESA 3.0"
+  },
+  "audio": {
+    "device": "Sound Blaster 16"
+  },
+  "security": {
+    "secureBoot": false
+  }
+}
