@@ -1,16 +1,42 @@
-## Hi there 👋
+# UEFI-J
 
-<!--
-**uefi-j/uefi-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bridging Generations Since Boot
 
-Here are some ideas to get you started:
+UEFI-J (John Edition) é uma arquitetura experimental de firmware
+voltada para compatibilidade retroativa e preservação computacional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+O projeto busca combinar:
+
+- Firmware UEFI moderno
+- Compatibilidade com software legado
+- Perfis históricos de hardware
+- Preservação digital
+- Emulação integrada de dispositivos clássicos
+
+## Objetivos
+
+- Compatibilidade DOS
+- Compatibilidade Windows 95/98/ME
+- Compatibilidade Windows XP
+- Museum Mode
+- Virtual BIOS Engine
+- CPU Personality Engine
+- Retro Audio Layer
+- Legacy Device Framework
+
+## Estrutura
+
+firmware/
+profiles/
+docs/
+tools/
+tests/
+emulator/
+
+## Status
+
+🚧 Em desenvolvimento conceitual
+
+## Licença
+
+GPLv3
