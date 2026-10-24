@@ -1,0 +1,16 @@
+{
+  "name": "DOS Gaming",
+  "profileVersion": "1.0",
+  "cpu": {
+    "personality": "486DX4"
+  },
+  "memory": {
+    "visible": "64MB"
+  },
+  "video": {
+    "mode": "VGA"
+  },
+  "audio": {
+    "device": "Sound Blaster 16"
+  }
+}
